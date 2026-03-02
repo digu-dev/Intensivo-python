@@ -81,7 +81,7 @@ Os projetos aqui presentes têm caráter educacional e representam minha evoluç
 - Estudante de desenvolvimento backend com foco em Java, Spring Boot e dados
 - Explorando automação, análise de dados e machine learning
 
-📌 GitHub: https://github.com/seu-usuario
+📌 GitHub: https://github.com/digu-dev
 
 ---
 
